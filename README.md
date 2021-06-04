@@ -1,0 +1,2 @@
+# snipey
+Sniper-bot docs
